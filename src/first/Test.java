@@ -9,6 +9,9 @@ public class Test {
 		System.out.println("Test2");
 		System.out.println("Test2");
 		System.out.println(new Date());
+		System.out.println(new Object());
+		System.out.println(new Object());
+		
 		
 		
 	}
